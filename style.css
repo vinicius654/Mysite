@@ -13,9 +13,28 @@ margin:0vh;
     background-color: #171749;
     margin: 0vh;
     display: flex;
+    height: 15vh;
 }
 
-#nav  ul li {
-  display: flex;
-  flex-direction: column;
+#nav div {
+  width: 50%;
 }
+
+#nav ul {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ list-style: none;
+}
+
+#nav ul li {
+  padding: 25px;
+}
+
+#nav ul li a {
+  text-decoration: none;
+  color: #ececec;
+  font-weight: 700;
+}
+
+
