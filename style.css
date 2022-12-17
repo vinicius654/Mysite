@@ -14,7 +14,8 @@ margin:0vh;
     margin: 0vh;
     display: flex;
     height: 15vh;
-    position: fixed;
+    
+  /*  position: fixe*/
     width: 100%;
 }
 
@@ -39,8 +40,12 @@ margin:0vh;
   font-weight: 700;
 }
 
+#home {
+
+}
+
 #aboutme {
-  position: absolute;
+  /*position: absolute;*/
   top: 15%;
   left: 15%;
   width: 50vh;
