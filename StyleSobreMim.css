@@ -1,0 +1,45 @@
+body {
+    background-color: #161824;
+}
+
+nav {
+    list-style: none;
+    display: flex;
+    margin: 5px 20px 5px 80px;
+}
+
+nav li a{
+    padding: 20px;
+    text-decoration: none;
+    color: #FAFAFA;
+
+text-align: center;
+font-family: Work Sans;
+font-size: 30px;
+font-style: normal;
+font-weight: 50;
+}
+
+h1 {
+    padding: 25px;
+
+ color: #7382B7;
+font-family: Work Sans;
+font-size: 50px;
+font-style: normal;
+font-weight: 700;
+line-height: 10%;
+}
+
+#pagina {
+    display: flex;
+    padding: 50px;
+}
+
+#pagina #img, p {
+    padding: 40px;
+}
+
+
+
+
